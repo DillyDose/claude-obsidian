@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "477f1cf965ca606e",
+        "id": "4fe5cef6bec6033e",
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "8690198101fceba5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/SAIE2026-Object-Detection-Optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAIE2026-Object-Detection-Optimization"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/Time Series Hackathon Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Time Series Hackathon Guide"
             }
           },
           {
@@ -177,15 +182,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "5565f1231fe95c42",
+  "lastOpenFiles": [
+    "wiki/concepts/Wellness IoT.md",
+    "wiki/concepts/Wearable Foundation Models.md",
+    "wiki/concepts/TinyML and Edge AI.md",
+    "wiki/concepts/Federated Learning in Healthcare.md",
+    "wiki/concepts/Continuous Glucose Monitoring.md",
+    "wiki/sources/iot-wellness-sota-2020-2026.md",
+    "wiki/sources/claude-obsidian-ecosystem-research.md",
+    "wiki/sources/_index.md",
+    "wiki/sources",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "wiki/meta/workflow-loop.gif",
+    "wiki/meta/wiki-graph-grow.gif",
+    "wiki/meta/welcome-canvas.gif",
+    "wiki/meta/dragonscale-mechanism-overview.png",
+    "wiki/meta/tiling-report-2026-04-24.md",
+    "wiki/meta/image-example-wiki-map-view.png",
+    "wiki/meta/image-example-graph-view.png",
+    "wiki/meta/full-audit-and-system-setup-session.md",
+    "wiki/meta/dragonscale-mechanism-overview.svg",
+    "wiki/meta/dragonscale-frontier-graph.svg",
+    "wiki/meta/dragonscale-6-test-flow.png",
+    "wiki/meta/dragonscale-frontier-graph.png",
+    "wiki/meta/dashboard.md",
+    "wiki/meta/dashboard.base",
+    "wiki/meta/claude-obsidian-v1.4-release-session.md",
+    "wiki/meta/claude-obsidian-v1.2.0-release-session.md",
+    "wiki/meta/boundary-frontier-2026-04-24.md",
+    "wiki/meta/2026-04-24-v1.6.0-release-session.md",
+    "wiki/meta/2026-04-15-slides-and-release-session.md",
+    "wiki/meta/2026-04-15-release-report-session.md",
+    "wiki/meta/2026-04-14-community-cta-rollout.md",
+    "wiki/meta/2026-04-14-claude-seo-v190-session.md",
+    "wiki/meta/2026-04-10-backlink-empire-session.md",
+    "wiki/meta",
+    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
+    "wiki/folds",
+    "wiki/entities/rvk7895-llm-knowledge-bases.md",
+    "wiki/entities/kepano-obsidian-skills.md",
+    "wiki/entities/ballred-obsidian-claude-pkm.md",
+    "wiki/entities/_index.md",
+    "wiki/entities",
+    "wiki/comparisons",
+    "wiki/canvases/youtube-explainer.canvas",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/canvases",
+    "wiki/questions",
+    "wiki/concepts",
+    "wiki/Wiki Map.canvas"
+  ]
 }
