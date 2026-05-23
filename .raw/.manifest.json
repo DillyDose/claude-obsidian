@@ -2,8 +2,40 @@
   "version": 1,
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
+  "sources": {
+    ".raw/articles/iot-wellness-sota-2020-2026-2026-05-23.md": {
+      "hash": "f25c2b04d7056f20c860a22891dbb391",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/iot-wellness-sota-2020-2026.md",
+        "wiki/concepts/Wellness IoT.md",
+        "wiki/concepts/Wearable Foundation Models.md",
+        "wiki/concepts/TinyML and Edge AI.md",
+        "wiki/concepts/Federated Learning in Healthcare.md",
+        "wiki/concepts/Continuous Glucose Monitoring.md",
+        "wiki/entities/Apple Health Ecosystem.md",
+        "wiki/entities/Oura Health.md",
+        "wiki/entities/Google PH-LLM.md",
+        "wiki/entities/WESAD Dataset.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    }
+  },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/sources/iot-wellness-sota-2020-2026.md": "c-000003",
+    "wiki/concepts/Wellness IoT.md": "c-000004",
+    "wiki/concepts/Wearable Foundation Models.md": "c-000005",
+    "wiki/concepts/TinyML and Edge AI.md": "c-000006",
+    "wiki/concepts/Federated Learning in Healthcare.md": "c-000007",
+    "wiki/concepts/Continuous Glucose Monitoring.md": "c-000008",
+    "wiki/entities/Apple Health Ecosystem.md": "c-000009",
+    "wiki/entities/Oura Health.md": "c-000010",
+    "wiki/entities/Google PH-LLM.md": "c-000011",
+    "wiki/entities/WESAD Dataset.md": "c-000012"
   }
 }

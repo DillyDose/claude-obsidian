@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-05-23] ingest | State of the Art in IoT for the Wellness Industry, 2020-2026
+- Source: `.raw/articles/iot-wellness-sota-2020-2026-2026-05-23.md`
+- Summary: [[iot-wellness-sota-2020-2026]]
+- Pages created: [[iot-wellness-sota-2020-2026]], [[Wellness IoT]], [[Wearable Foundation Models]], [[TinyML and Edge AI]], [[Federated Learning in Healthcare]], [[Continuous Glucose Monitoring]], [[Apple Health Ecosystem]], [[Oura Health]], [[Google PH-LLM]], [[WESAD Dataset]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Wellness IoT crossed into clinical-grade territory (Apple Watch ECG at 94.8% AF sensitivity, AUROC 0.96); wearable foundation models trained on 2.5B+ hours now outperform human experts on standardized health exams. Real-world generalization remains the unsolved problem.
+
 ## [2026-04-24] save | v1.6.0 public release notes (Teams, Karpathy-style)
 - Type: release doc + visual assets
 - Locations (new): `docs/releases/v1.6.0.md` (346 lines, 6 sections, Karpathy-style prose), `wiki/meta/dragonscale-mechanism-overview.svg` (4-mechanism diagram with shared .vault-meta/ gate), `wiki/meta/dragonscale-6-test-flow.svg` (validation timeline), `wiki/meta/dragonscale-frontier-graph.svg` (M4 candidate + 3 filed pages)

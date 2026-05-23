@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-15 | Total pages: 34 | Sources ingested: 2
+Last updated: 2026-05-23 | Total pages: 44 | Sources ingested: 3
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -44,6 +44,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Persistent Wiki Artifact]]: durable Markdown page as the LLM's memory object, distinct from ephemeral chat turns (status: developing)
 - [[Source-First Synthesis]]: provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
+- [[Wellness IoT]] — IoT sensors and AI for consumer/clinical health monitoring; market, stack, accuracy landscape, open problems (status: developing)
+- [[Wearable Foundation Models]] — self-supervised models pretrained on billions of sensor-hours (Apple WBM, Google PH-LLM); new SOTA paradigm (status: developing)
+- [[TinyML and Edge AI]] — sub-1mW, <1MB RAM ML inference on microcontrollers; three-tier wellness IoT architecture (status: developing)
+- [[Federated Learning in Healthcare]] — privacy-preserving cross-device/cross-institution model training; canonical wellness IoT training paradigm (status: developing)
+- [[Continuous Glucose Monitoring]] — real-time metabolic biosensor; crossing from medical (Libre 3, Dexcom G7) into OTC wellness (Lingo, Stelo) (status: developing)
 
 ---
 
@@ -57,12 +62,17 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
+- [[Apple Health Ecosystem]] — Apple Watch, AHMS, WBM foundation model; ~28% 2025 wearables market share (status: developing)
+- [[Oura Health]] — Oura Ring Gen3/4; best independently-validated consumer sleep staging device (status: developing)
+- [[Google PH-LLM]] — Gemini fine-tuned on Fitbit data; outperforms human experts on sleep/fitness exams (Nature Medicine 2025) (status: developing)
+- [[WESAD Dataset]] — canonical stress-detection benchmark (ACM ICMI 2018); 97-99% lab accuracy does not generalize to free-living (status: developing)
 
 ---
 
 ## Sources
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
+- [[iot-wellness-sota-2020-2026]] — 2026-05-23 | Compass research report | 9 wiki pages created | IoT wellness SOTA 2020-2026
 
 ---
 

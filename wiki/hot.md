@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-24T13:10:00
+updated: 2026-05-23T00:00:00
 tags:
   - meta
   - hot-cache
@@ -19,6 +19,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-05-23: IoT wellness SOTA research ingested (Compass report, 147 lines). 10 new wiki pages filed: source summary [[iot-wellness-sota-2020-2026]], concepts [[Wellness IoT]], [[Wearable Foundation Models]], [[TinyML and Edge AI]], [[Federated Learning in Healthcare]], [[Continuous Glucose Monitoring]], entities [[Apple Health Ecosystem]], [[Oura Health]], [[Google PH-LLM]], [[WESAD Dataset]]. Addresses c-000003 through c-000012 assigned. Vault counter at 13. Key findings: Apple Watch ECG 94.8% AF sensitivity (AUROC 0.96, JACC: Advances 2024 meta-analysis); Apple WBM foundation model trained on 2.5B hours/162K participants outperforms PPG FM on 18/47 health tasks (preprint, not replicated); Google PH-LLM (Nature Medicine 2025) beats human experts on sleep (79% vs 76%) and fitness (88% vs 71%) exams; real-world generalization from WESAD benchmarks remains unsolved. Wellness IoT market $92.9B in 2025 (Grand View). Changes pushed to main branch.
 
 2026-04-24 (late night): v1.6.0 public release notes shipped. `docs/releases/v1.6.0.md` (Karpathy-style, 346 lines) establishes the release-notes convention. Three original SVGs at `wiki/meta/dragonscale-{mechanism-overview,6-test-flow,frontier-graph}.svg` carry the visual load; Wikipedia dragon curve referenced by text link only (no binary vendoring). R4 codex verifier ACCEPT WITH FIXES, 3 wording fixes applied. User runs `gh release create v1.6.0 --notes-file docs/releases/v1.6.0.md` when ready. Commits `85515bb` (docs), plus wiki/meta/ auto-commits for SVGs.
 
