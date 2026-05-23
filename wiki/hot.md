@@ -80,4 +80,4 @@ Navigation: [[index]] | [[log]] | [[overview]]
 ## Repo Locations
 
 - Working: `~/Desktop/claude-obsidian/`
-- Public: https://github.com/AgriciDaniel/claude-obsidian
+- Public: https://github.com/DillyDose/claude-obsidian
